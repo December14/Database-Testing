@@ -1,4 +1,4 @@
-# Database-Testing
+# Database Testing
 ## MySQL Workbench
 ## [Database dump](https://drive.google.com/drive/folders/1GUJ8g9YzVKhSvi8z3mE7r9XwpMs-Q1Bw?usp=sharing)
 ### Task 1 
