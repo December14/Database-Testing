@@ -12,3 +12,12 @@
 [SQL Tasks](https://docs.google.com/document/d/1VIz4o0jGG85zxU682jeiox5HgNJHRgDO/edit?usp=sharing&ouid=116635538336499939818&rtpof=true&sd=true)
 ### Solution :
 [SQL Solution](https://docs.google.com/document/d/1BgIJrjy5NipGGaw82wKyn629vQU2Ydz_/edit?usp=sharing&ouid=116635538336499939818&rtpof=true&sd=true)
+
+---
+
+## SQL Murder Mystery ⚖️
+#### - *Can you find out whodunnit?* 👇🏻
+### https://mystery.knightlab.com/
+### Solution :
+[Investigation](SQL_Murder_Investigation)
+              
